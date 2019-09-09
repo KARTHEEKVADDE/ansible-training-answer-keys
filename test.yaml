@@ -1,0 +1,7 @@
+-
+   name:"Play 1"
+   hosts: all
+   tasks:
+     -
+       name: Execute a ping command
+       - ping:
